@@ -1,0 +1,9 @@
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\bin\Release\MVCController.dll
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\bin\Release\MVCController.pdb
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\bin\Release\MVCModal.dll
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\bin\Release\MVCModal.pdb
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Release\MVC-Controller.csproj.AssemblyReference.cache
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Release\MVC-Controller.csproj.CoreCompileInputs.cache
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Release\MVC-Controller.csproj.CopyComplete
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Release\MVCController.dll
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCController\obj\Release\MVCController.pdb

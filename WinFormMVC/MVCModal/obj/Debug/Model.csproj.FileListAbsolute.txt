@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCModal\bin\Debug\MVCModal.dll
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCModal\bin\Debug\MVCModal.pdb
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCModal\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCModal\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCModal\obj\Debug\MVCModal.dll
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCModal\obj\Debug\MVCModal.pdb

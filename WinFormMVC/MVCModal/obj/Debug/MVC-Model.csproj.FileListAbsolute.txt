@@ -1,0 +1,5 @@
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCModal\bin\Debug\MVCModal.dll
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCModal\bin\Debug\MVCModal.pdb
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.CoreCompileInputs.cache
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVCModal.dll
+E:\Enseignement\2021-2022\Programmation Evolue\DIVERS\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVCModal.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9e425ca-c61d-4ac2-b9c9-b95e186e6300": {
+      "ProjectGuid": "d9e425ca-c61d-4ac2-b9c9-b95e186e6300",
+      "DisplayName": "MVC-Controller",
+      "ColorIndex": 0
+    },
+    "21528841-93c2-4f68-9c58-2efe2d0d37ee": {
+      "ProjectGuid": "21528841-93c2-4f68-9c58-2efe2d0d37ee",
+      "DisplayName": "MVC-Model",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

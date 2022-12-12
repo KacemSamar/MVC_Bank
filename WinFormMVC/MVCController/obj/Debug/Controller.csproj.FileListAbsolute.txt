@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\obj\Debug\MVCController.dll
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\obj\Debug\MVCController.pdb
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\bin\Debug\MVCController.dll
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\bin\Debug\MVCController.pdb
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\bin\Debug\MVCModal.dll
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\bin\Debug\MVCModal.pdb
+C:\Users\LENOVO\Desktop\CsharpKacemSamar\WinFormMVC\MVCController\obj\Debug\Controller.csproj.CopyComplete
